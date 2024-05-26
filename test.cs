@@ -1,2 +1,2 @@
 test
-    26 mayýs devam
+    herþey için saðolun hocam
