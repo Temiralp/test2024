@@ -1,4 +1,3 @@
-test
- herþey için saðolun hocam
-Console.WriteLine("SEZER");
-
+git fetch
+git pull
+git push origin main
